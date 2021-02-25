@@ -6,6 +6,15 @@ first and our [code of conduct](https://github.com/chryz-hub/py-tutorials/blob/m
 In order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!__
 
 ## Contents
+<details>
+<summary>
+<strong> <a href="https://github.com/chryz-hub/py-tutorials/tree/master/python/introduction">Introduction</a></strong>
+</summary>
+    <ul>
+       <li> <a href ="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/Getting-you-prepared.md"> Getting you prepared</a></li>
+       <li> <a href ="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/intro-to-python.md"> Introduction to Python</a></li>
+   </ul>
+</details>
 
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
