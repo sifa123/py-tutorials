@@ -3,7 +3,7 @@ name:  question
 about: I am stuck please can someone help
 title: ''
 labels: question
-assignees: ''
+assignees: 'chryzcodez'
 
 ---
 
