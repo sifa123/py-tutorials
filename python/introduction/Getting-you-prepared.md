@@ -11,7 +11,7 @@ in mind that you are a real developer when you are commited, dedicated and unrel
 I consider any code that does not meet the intended expectation of a programmer or a user a bug, why?
 - Codes are called codes beacuse it solves an intended problem or let's say a problem
 - Bugs are called bugs because it has nothing to offer, no value but problems
-### When writing codes, they make use of:
+### Codes makes use of:
 - Data
 - Information
 - Network
