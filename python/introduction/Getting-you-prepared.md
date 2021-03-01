@@ -18,4 +18,4 @@ I consider any code that does not meet the intended expectation of a programmer 
 
 **Without wasting much of your time, let's move to >>>introduction to python**
 
-<br><b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/intro-to-python.md">Next Page</a></b></br>
+<br><b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/intro-to-python.md">➡Next Page</a></b></br>
