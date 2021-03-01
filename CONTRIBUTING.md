@@ -11,7 +11,7 @@ Please note we have a [CODE of CONDUCT](https://github.com/chryz-hub/py-newbies-
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
    build.
 2. Update the README.md with details of changes to the interface, this includes new environment 
-   variables, exposed ports, useful file locations and container parameters.
+   variables, exposed ports, useful file locations, and container parameters.
 3. Increase the version numbers in any examples files and the README.md to the new version that this
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
@@ -19,7 +19,7 @@ Please note we have a [CODE of CONDUCT](https://github.com/chryz-hub/py-newbies-
 
 ## <a name="commit"></a> Commit Message Guidelines 😎
 
-In order to make git commit messages **easier to read** and faster to reason about, we follow some guidelines on most commits to keep the **format predictable**. Check [Conventional Commits specification](https://conventionalcommits.org) for more information about our guidelines.
+To make git commit messages **easier to read** and faster to reason about, we follow some guidelines on most commits to keep the **format predictable**. Check [Conventional Commits specification](https://conventionalcommits.org) for more information about our guidelines.
 
 **Examples**:
 
@@ -46,4 +46,4 @@ Must be one of the following:
 - **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - **test**: Adding missing tests or correcting existing tests
 
-**or better still a precise and a short description really passing the real message of the issues or pull request!**
+**or better still a precise and short description passing the real message of the issues or pull request!**
