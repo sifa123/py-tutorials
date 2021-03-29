@@ -1,3 +1,5 @@
+<b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/intro-to-python.md">⬅Pevious page</a></b>
+
 # Python
 
 ## What is python?
@@ -26,3 +28,4 @@ If yes that's great but if no, not bad, his name is [Guido Van Rossum](https://e
    This is writing/run sequence of lines, commands/statements into a file using a code editor(IDE)
    - In a sense, we are giving python a script to execute
    - Add .py as the suffix while saving the files to indicate it is a python file/script.
+
