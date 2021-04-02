@@ -1,4 +1,4 @@
-<b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/intro-to-python.md">⬅Pevious page</a></b>
+<b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/getting-you-prepared.md">⬅Pevious page</a></b>
 
 # Python
 
@@ -49,3 +49,7 @@ of python you have installed, if something like an error pops out, then there is
      - Open your Command Prompt
      - Navigate to the directory where your code was stored `mycode.py`
      - Then type down the name of the file and click the `enter` button
+
+
+
+<br><b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/python-syntax">➡Next Page</a></b></br>
