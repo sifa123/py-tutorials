@@ -1,6 +1,6 @@
 
 
-#Python Variables
+# Python Variables
 Variables are used storing data values.
 
 ## Creating a Variable
