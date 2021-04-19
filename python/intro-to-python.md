@@ -23,6 +23,8 @@ If yes that's great but if no, not bad, his name is [Guido Van Rossum](https://e
 - Python can be used to handle big data and perform complex mathematics.
 - Python can be used for rapid prototyping, or for production-ready software development.
 
+To know more about python, [check this blog](https://chryzcodez.hashnode.dev/the-language-python)
+
 ## Getting Python Installed
 I think most PCs have Python installed, to check if yours have Python installed. Run this code in yours
 commands line/prompt ```python --version```. The output of that command is meant to show you the version
