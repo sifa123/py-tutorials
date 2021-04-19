@@ -1,5 +1,7 @@
 # py-tutorials
-### This repository is geared towards making teaching tutorials for python developers.
+### This repository is geared towards teaching tutorials to developers interested in learning python.
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 Feel free to create an [issue](https://github.com/chryz-hub/py-tutorials/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/py-tutorials/blob/master/CONTRIBUTING.md) 
 first and our [code of conduct](https://github.com/chryz-hub/py-tutorials/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a PR, we appreciate it!
