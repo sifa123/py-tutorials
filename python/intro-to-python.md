@@ -1,4 +1,4 @@
-<b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/getting-you-prepared.md">⬅Pevious page</a></b>
+<b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/getting-you-prepared.md">⬅Pevious page</a></b>
 
 # Python
 
