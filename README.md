@@ -9,8 +9,8 @@ In order for us not to ignore your effort, please check well not to make a dupli
 
 ## Contents
 <ul>
-    <li> <a href ="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/Getting-you-prepared.md"> Getting you prepared</a></li>
-     <li> <a href ="https://github.com/chryz-hub/py-tutorials/blob/master/python/introduction/intro-to-python.md"> Introduction to Python</a></li>
+    <li> <a href ="https://github.com/chryz-hub/py-tutorials/blob/master/python/getting-you-prepared.md"> Getting you prepared</a></li>
+     <li> <a href ="https://github.com/chryz-hub/py-tutorials/blob/master/python/intro-to-python.md"> Introduction to Python</a></li>
 </ul>
 
 
