@@ -54,4 +54,4 @@ of python you have installed, if something like an error pops out, then there is
 
 
 
-<br><b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/python-syntax">➡Next Page</a></b></br>
+<br><b><h4 align="left"><a href="https://github.com/chryz-hub/py-tutorials/blob/master/python/python-syntax.md">➡Next Page</a></b></br>
